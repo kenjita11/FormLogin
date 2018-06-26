@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{C90E855B-0B40-41C6-A967-58B0C1C32A04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationTest/MainPage.xaml.cs">
+    <Files>
+      <File FileName="NavigationTest/MainPage.xaml" Line="61" Column="15" />
+      <File FileName="NavigationTest.iOS/Main.cs" Line="16" Column="1" />
+      <File FileName="NavigationTest/SignUp.xaml" Line="43" Column="1" />
+      <File FileName="NavigationTest/MainPage.xaml.cs" Line="52" Column="33" NotebookId="1" />
+      <File FileName="NavigationTest/SignUp.xaml.cs" Line="36" Column="55" NotebookId="1" />
+      <File FileName="NavigationTest/UserData.cs" Line="2" Column="25" NotebookId="1" />
+      <File FileName="NavigationTest/User.cs" Line="8" Column="23" NotebookId="1" />
+      <File FileName="NavigationTest/App.xaml.cs" Line="13" Column="42" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NavigationTest.Android PreferredExecutionTarget="Android.Nexus_6P_API_P" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavigationTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4D2D9BAA-1898-4C5C-B081-425611E59495" />
+  <MultiItemStartupConfigurations />
+</Properties>

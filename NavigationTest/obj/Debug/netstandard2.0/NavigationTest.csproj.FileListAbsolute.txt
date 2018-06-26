@@ -1,0 +1,9 @@
+/Users/mptt2/Projects/NavigationTest/NavigationTest/bin/Debug/netstandard2.0/NavigationTest.deps.json
+/Users/mptt2/Projects/NavigationTest/NavigationTest/bin/Debug/netstandard2.0/NavigationTest.dll
+/Users/mptt2/Projects/NavigationTest/NavigationTest/bin/Debug/netstandard2.0/NavigationTest.pdb
+/Users/mptt2/Projects/NavigationTest/NavigationTest/obj/Debug/netstandard2.0/NavigationTest.csprojResolveAssemblyReference.cache
+/Users/mptt2/Projects/NavigationTest/NavigationTest/obj/Debug/netstandard2.0/NavigationTest.csproj.CoreCompileInputs.cache
+/Users/mptt2/Projects/NavigationTest/NavigationTest/obj/Debug/netstandard2.0/NavigationTest.AssemblyInfoInputs.cache
+/Users/mptt2/Projects/NavigationTest/NavigationTest/obj/Debug/netstandard2.0/NavigationTest.AssemblyInfo.cs
+/Users/mptt2/Projects/NavigationTest/NavigationTest/obj/Debug/netstandard2.0/NavigationTest.dll
+/Users/mptt2/Projects/NavigationTest/NavigationTest/obj/Debug/netstandard2.0/NavigationTest.pdb
