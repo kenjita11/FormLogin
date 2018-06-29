@@ -52,5 +52,6 @@
 /Users/mptt2/Projects/NavigationTest/NavigationTest.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-11.4/optimized/
 /Users/mptt2/Projects/NavigationTest/NavigationTest.iOS/obj/iPhoneSimulator/Debug/NavigationTest.iOS.csprojResolveAssemblyReference.cache
 /Users/mptt2/Projects/NavigationTest/NavigationTest.iOS/obj/iPhoneSimulator/Debug/NavigationTest.iOS.csproj.CoreCompileInputs.cache
+/Users/mptt2/Projects/NavigationTest/NavigationTest.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/mptt2/Projects/NavigationTest/NavigationTest.iOS/obj/iPhoneSimulator/Debug/NavigationTest.iOS.exe
 /Users/mptt2/Projects/NavigationTest/NavigationTest.iOS/obj/iPhoneSimulator/Debug/NavigationTest.iOS.pdb

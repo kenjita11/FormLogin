@@ -6,6 +6,7 @@
 /Users/mptt2/Projects/NavigationTest/NavigationTest.Android/bin/Debug/NavigationTest.pdb
 /Users/mptt2/Projects/NavigationTest/NavigationTest.Android/obj/Debug/NavigationTest.Android.csprojResolveAssemblyReference.cache
 /Users/mptt2/Projects/NavigationTest/NavigationTest.Android/obj/Debug/NavigationTest.Android.csproj.CoreCompileInputs.cache
+/Users/mptt2/Projects/NavigationTest/NavigationTest.Android/obj/Debug/XamlC.stamp
 /Users/mptt2/Projects/NavigationTest/NavigationTest.Android/obj/Debug/NavigationTest.Android.dll
 /Users/mptt2/Projects/NavigationTest/NavigationTest.Android/obj/Debug/NavigationTest.Android.pdb
 /Users/mptt2/Projects/NavigationTest/NavigationTest.Android/obj/Debug/android/bin/com.companyname.NavigationTest.apk
